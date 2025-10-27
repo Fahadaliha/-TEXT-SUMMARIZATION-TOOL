@@ -104,6 +104,13 @@ python main.py
 
 ---
 ## Output
+<img width="1904" height="694" alt="Image" src="https://github.com/user-attachments/assets/35184b80-0e23-4261-b2e5-65a70c0d1af7" />
+
+<img width="1896" height="854" alt="Image" src="https://github.com/user-attachments/assets/26ee25dd-54da-4b0a-94f8-84a8159d3a2c" />
+
+<img width="1886" height="589" alt="Image" src="https://github.com/user-attachments/assets/2facad83-9fb6-4e3b-82fd-7c0f90e7e4fb" />
+
+<img width="1903" height="534" alt="Image" src="https://github.com/user-attachments/assets/b1c5c846-23e0-459d-a33d-f4a16c51e442" />
 
 
 
