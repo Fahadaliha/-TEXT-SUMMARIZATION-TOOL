@@ -1,6 +1,18 @@
 # -TEXT-SUMMARIZATION-TOOL
 A TOOL THAT SUMMARIZES  LENGTHY ARTICLES USING NATURAL  LANGUAGE PROCESSING.
 
+*Company*: CodTech IT solutions
+
+*Name*:Mohammed Fahad Ali
+
+*Intern ID*:CT04DR859
+
+*Domain*:Artificial Intelligece
+
+*Duration*:4 Weeks
+
+*Mentor*: Neela Santosh
+
 #  Text Summarizer using NLP
 
 This is my first internship task — a simple **Text Summarizer Tool** built using Python and Natural Language Processing (NLP).
@@ -91,6 +103,9 @@ python main.py
 ```
 
 ---
+## Output
+
+
 
 
 
